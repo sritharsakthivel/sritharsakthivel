@@ -47,19 +47,19 @@
 <br />
 
 ### TryHackMe Badge:-
-<img src="https://tryhackme-badges.s3.amazonaws.com/PrinceofChum.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/srithar sakthivel.png" alt="TryHackMe">
 
 
 ### Github Trophies:-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=princeofchum&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=srithar sakthivel&theme=gruvbox"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeofchum&theme=dark" alt="srithar sakthivel" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princeofchum&show_icons=true&theme=dark" alt="srithar sakthivel" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srithar sakthivel&theme=dark" alt="srithar sakthivel" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srithar sakthivel&show_icons=true&theme=dark" alt="srithar sakthivel" />
 </p>
 
 <p align="center">
