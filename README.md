@@ -16,7 +16,7 @@
   <img align="left" alt="sri Leatcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
   </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=princeofchum.srithar sakthivel)
+![](https://visitor-badge.glitch.me/badge?page_id=srithar sakthivel.)
 
 <br />
 
