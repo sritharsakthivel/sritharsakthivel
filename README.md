@@ -76,16 +76,16 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sritharsakthivel&theme=gruvbox"/>
   </a>
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="annshiv" />
+<img src="https://activity-graph.herokuapp.com/graph?username=sritharsakthivel&theme=xcode" alt="annshiv" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true" alt="Annshiv" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sritharsakthivel&theme=dark" alt="sritharsakthivel" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sritharsakthvel&show_icons=true&theme=dark&count_private=true" alt="Annshiv" />
 </p>
 
