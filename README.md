@@ -28,7 +28,7 @@
 - 🌱 I’m currently looking at others' code 🤣
 - 👯 I’m looking to collaborate with people who are able to write own hacking scripts
 - 🥅 2021 Goals: Simply sitting and learning
-- ⚡ Fun fact: All it was induced by the person--Pikachu.
+- ⚡ Fun fact: All it was induced by the person--friends.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: srithar0501@gmal.com;
 
@@ -66,11 +66,6 @@
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/>
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/>
 </p>
-
-
-### TryHackMe Badge:-
-<img src="https://tryhackme-badges.s3.amazonaws.com/sritharsakthivel.png" alt="TryHackMe">
-
 
 ### Github Trophies:-
 
