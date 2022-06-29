@@ -57,6 +57,17 @@
 
 </p>
 
+<h3>CSPs and others</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="60"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/>
+</p>
+<h3>Databases:</h3>
+<p>
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/>
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/>
+</p>
+
+
 ### TryHackMe Badge:-
 <img src="https://tryhackme-badges.s3.amazonaws.com/srithar sakthivel.png" alt="TryHackMe">
 
