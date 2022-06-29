@@ -73,19 +73,19 @@
 
 
 ### Github Trophies:-
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=srithar sakthivel&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srithar sakthivel&theme=dark" alt="srithar sakthivel" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srithar sakthivel&show_icons=true&theme=dark" alt="srithar sakthivel" />
+<img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="annshiv" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=srithar sakthivel" />
-<img src="https://badges.pufler.dev/years/srithar sakthivel?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/repos/srithar sakthivel?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/commits/monthly/srithar sakthivel?&logo=github&logoColor=yellow" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true" alt="Annshiv" />
+</p>
+
