@@ -81,6 +81,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sritharsakthivel&theme=dark" alt="sritharsakthivel" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sritharsakthvel&show_icons=true&theme=dark&count_private=true" alt="sritharsakthivel" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sritharsakthivel&show_icons=true&theme=dark&count_private=true" alt="sritharsakthivel" />
 </p>
 
